@@ -1,1 +1,2 @@
-# Collaborative-Text-Editor
+# collabwrite
+
